@@ -1,9 +1,9 @@
 const Header = () => {
 
     return(
-        <div className="sticky top-0 z-10 flex justify-between items-center bg-[#fef4e9] shadow-md">
+        <div className="sticky top-0 z-10 flex justify-between items-center bg-[#fffefc] shadow-md">
 
-        <div className="p-3 pl-5">
+        <div className="p-3 pl-6">
           <span className="text-4xl font-light">ikai</span>
         </div>
   
